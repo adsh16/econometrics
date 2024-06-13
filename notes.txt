@@ -1,0 +1,9 @@
+States which don't have residualsodiumcarbonate data
+MANIPUR
+MIZORAM
+ORISSA
+SIKKIM
+PUDUCHERRY
+
+States which have residualsodiumcarbonate data but no GDP data
+[The Dadra And Nagar Haveli And Daman And Diu']
