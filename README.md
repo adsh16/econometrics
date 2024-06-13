@@ -15,17 +15,17 @@ This project investigates the relationship between economic growth and groundwat
 
 2. **Regression Analysis**:
    - Estimated the relationship between groundwater quality (GWQ) and economic output (SDP):
-     \[
+     $$
      \text{GWQ}_{i,t} = \beta_0 + \beta_1 \text{SDP}_{i,t} + u_{i,t}
-     \]
+     $$
    - Summarized and interpreted regression results.
 
 3. **Residual Analysis**:
    - Visualized model residuals with plots:
      - Groundwater quality indicator on Y-axis and SDP on X-axis.
-     - Residuals (\(\hat{u}_{i,t}\)) on Y-axis and SDP on X-axis.
+     - Residuals ($\hat{u}_{i,t}$) on Y-axis and SDP on X-axis.
    - Analyzed the expected patterns in the plots.
-   - Plotted a histogram of residuals and verified that their sum is zero (\(\sum_{i,t} \hat{u}_{i,t} = 0\)).
+   - Plotted a histogram of residuals and verified that their sum is zero ($\sum_{i,t} \hat{u}_{i,t} = 0$).
 
 4. **Environmental Kuznets Curve (EKC)**:
    - Enhanced the regression model to reflect the non-linear relationship between environmental quality and economic growth.
