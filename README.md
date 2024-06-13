@@ -15,9 +15,7 @@ This project investigates the relationship between economic growth and groundwat
 
 2. **Regression Analysis**:
    - Estimated the relationship between groundwater quality (GWQ) and economic output (SDP):
-     $$
-     \text{GWQ}_{i,t} = \beta_0 + \beta_1 \text{SDP}_{i,t} + u_{i,t}
-     $$
+     ($\text{GWQ}_{i,t} = \beta_0 + \beta_1 \text{SDP}_{i,t} + u_{i,t}$)
    - Summarized and interpreted regression results.
 
 3. **Residual Analysis**:
